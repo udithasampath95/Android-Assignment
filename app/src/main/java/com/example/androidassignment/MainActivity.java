@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements SearchView.OnQuer
         setContentView(R.layout.activity_main);
         initViews();
         setListners();
+
     }
 
     private void setListners() {
